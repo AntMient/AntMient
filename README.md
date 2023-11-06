@@ -16,21 +16,23 @@
   <h2>Producer skills</h2>
       <p><img src="https://skillicons.dev/icons?i=ableton" /></p>
   <h2>Some projects</h2>
-  <div>
+  <div align="center">
     <a href="https://github.com/AntMient/GetThatHome">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntMient&repo=GetThatHome" alt="Readme Card" data-canonical-src="" style="max-width: 100%;">
     </a>
     <a href="https://github.com/AntMient/CliviaGenerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntMient&repo=CliviaGenerator" alt="Readme Card" data-canonical-src="" style="max-width: 100%;">
     </a>
+  </div>
+  <div align="center">
     <a href="https://github.com/AntMient/Contactable">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntMient&repo=Contactable" alt="Readme Card" data-canonical-src="" style="max-width: 100%;">
     </a>
     <a href="https://github.com/AntMient/Planifica">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntMient&repo=Planifica" alt="Readme Card" data-canonical-src="" style="max-width: 100%;">
     </a>
-  </div>
-</div>
+   </div>
+  
 
 
 
