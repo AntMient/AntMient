@@ -1,9 +1,21 @@
-###  
-<div>
-  <h2>
-    Hi there 👋
-  </h2>
-</div>
+<h3>Hi there 👋</h3>
+<p dir="auto">I'm a Systems enginner and art lover</p>
+<p><strong>About me</strong></p>
+<ul dir="auto">
+  <li>
+  <p dir="auto">Systems enginner</p>
+  </li>
+  <li>
+  <p dir="auto">FrontEnd Developer</p>
+  </li>
+  <li>
+  <p dir="auto">Creator</p>
+  </li>
+  <li>
+  <p dir="auto">Designer</p>
+  </li>
+</ul>
+</br>
 <div>
   <h2>Dev skills</h2>
       <p><img src="https://skillicons.dev/icons?i=js,typescript,react,vite,androidstudio" /></p>
@@ -32,23 +44,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntMient&repo=Planifica" alt="Readme Card" data-canonical-src="" style="max-width: 100%;">
     </a>
    </div>
-  
-
-
-
-
-
-<!--
-**AntMient/AntMient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
