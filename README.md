@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-<p dir="auto">I'm a Systems enginner and art lover</p>
+<p dir="auto">Systems enginner and art lover</p>
 <p><strong>About me</strong></p>
 <ul dir="auto">
   <li>
