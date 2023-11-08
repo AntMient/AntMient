@@ -24,7 +24,7 @@
       <p><img src="https://skillicons.dev/icons?i=html,css,styledcomponents,emotion" /></p>
       <p><img src="https://skillicons.dev/icons?i=git,github,linux" /></p>
   <h2>Design skills</h2>
-      <p><img src="https://skillicons.dev/icons?i=ai,ae,ps,pr,xd,blender,figma" /></p>
+      <p><img src="https://skillicons.dev/icons?i=ai,ae,ps,pr,xd,figma" /></p>
   <h2>Producer skills</h2>
       <p><img src="https://skillicons.dev/icons?i=ableton" /></p>
   <h2>Some projects</h2>
